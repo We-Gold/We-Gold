@@ -12,6 +12,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=Java&logoColor=007396)
+  ![Julia](https://img.shields.io/badge/-Julia-FFFFFF?style=flat&logo=Julia&logoColor=9558B2)
   ![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat&logo=Flutter&logoColor=02569B)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=TensorFlow&logoColor=FF6F00)
   ![Keras](https://img.shields.io/badge/-Keras-FFFFFF?style=flat&logo=Keras&logoColor=D00000)

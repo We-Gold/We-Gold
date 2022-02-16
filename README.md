@@ -16,6 +16,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat&logo=Flutter&logoColor=02569B)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=TensorFlow&logoColor=FF6F00)
   ![Keras](https://img.shields.io/badge/-Keras-FFFFFF?style=flat&logo=Keras&logoColor=D00000)
+  ![Rust](https://img.shields.io/badge/-Rust-FFFFFF?style=flat&logo=Rust&logoColor=000000)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,6 +25,7 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=Firebase&logoColor=FFCA28)
   ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js) 
   ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
+  ![WebAssembly](https://img.shields.io/badge/-WebAssembly-FFFFFF?style=flat&logo=WebAssembly&logoColor=654FF0)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
   ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)

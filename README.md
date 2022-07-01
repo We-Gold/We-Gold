@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤖 &nbsp; Programming for my local robotics club @FRC2539
+- 🤖 &nbsp; Programming for my local robotics club [@FRC2539](https://github.com/FRC2539)
 - ✨ &nbsp; Making lots of fun new projects!
 - 📚 &nbsp; Learning all about AI and working to gain new coding skills!
-- 🏆 &nbsp; I may also be working on a coding competition or two 😉
+- 💪 &nbsp; Always challenging myself!
 
 <h3> 🛠 &nbsp;My Skills</h3>
 
@@ -40,8 +40,8 @@
 <br/>
 
 <a href="https://github.com/We-Gold">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=We-Gold&theme=vue&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=We-Gold&theme=vue&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=We-Gold&theme=graywhite&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=We-Gold&theme=graywhite&layout=compact" />
 </a>
 
 <br/>
@@ -50,5 +50,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/weaver-goldman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Weaver%20Goldman-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://leetcode.com/We-Gold/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Weaver%20Goldman-orange?style=flat-square&logo=leetcode"></a>
 </p>

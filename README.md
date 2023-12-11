@@ -1,53 +1,17 @@
-<h2> Hey there! I'm Weaver.</h2>
+# About Me:
+I'm a 1st-year computer science student at WPI. I'm passionate about urban planning, swarm robotics, and artificial life (ALife), and I'm hoping to explore these fields from a programmer's perspective. I learned to code with Arduino and Processing (10+ years ago), and since then I've expanded to many different languages and environments. I did FRC in high school and was the Programming Lead for [Team 2539](https://github.com/FRC2539). Most recently, I've been working on an environment where intelligent agents collaborate to solve a maze, but this hasn't been published yet. 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/weaver-goldman) 
 
-- 🤖 &nbsp; Programming for my local robotics club [@FRC2539](https://github.com/FRC2539)
-- ✨ &nbsp; Making lots of fun new projects!
-- 📚 &nbsp; Learning all about AI and working to gain new coding skills!
-- 💪 &nbsp; Always challenging myself!
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=We-Gold&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=We-Gold&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<h3> 🛠 &nbsp;My Skills</h3>
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=We-Gold&theme=graywhite&no-frame=true&no-bg=true&margin-w=4)
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=Java&logoColor=007396)
-  ![Julia](https://img.shields.io/badge/-Julia-FFFFFF?style=flat&logo=Julia&logoColor=9558B2)
-  ![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat&logo=Flutter&logoColor=02569B)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=TensorFlow&logoColor=FF6F00)
-  ![Keras](https://img.shields.io/badge/-Keras-FFFFFF?style=flat&logo=Keras&logoColor=D00000)
-  ![Rust](https://img.shields.io/badge/-Rust-FFFFFF?style=flat&logo=Rust&logoColor=000000)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
-  <!--![p5.js](htps://img.shields.io/badge/-p5.js-FFFFFF?style=flat&logo=p5.js&logoColor=ED225D) -->
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=Firebase&logoColor=FFCA28)
-  ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js) 
-  ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
-  ![WebAssembly](https://img.shields.io/badge/-WebAssembly-FFFFFF?style=flat&logo=WebAssembly&logoColor=654FF0)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
-  ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)
-  ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=Docker&logoColor=2496ED)
-- 🖥 &nbsp;
-  ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=Unity&logoColor=000000)
-  
+---
+[![](https://visitcount.itsvg.in/api?id=We-Gold&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<br/>
-
-<a href="https://github.com/We-Gold">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=We-Gold&theme=graywhite&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=We-Gold&theme=graywhite&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Online Presence </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/weaver-goldman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Weaver%20Goldman-blue?style=flat-square&logo=linkedin"></a>
-</p>
+# Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat&logo=solid&logoColor=c8c9cb) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)

@@ -1,5 +1,5 @@
 # About Me:
-I'm a 1st-year computer science student at WPI. I'm passionate about urban planning, swarm robotics, and artificial life (ALife), and I'm hoping to explore these fields from a programmer's perspective. I learned to code with Arduino and Processing (10+ years ago), and since then I've expanded to many different languages and environments. In high school, I was the Programming Lead for FRC [Team 2539](https://github.com/FRC2539). 
+I'm a 2nd-year computer science student at WPI. I'm passionate about Swarm Robotics, Biology, and Urban Planning, and I'm hoping to explore these fields from a programmer's perspective. I learned to code with Arduino and Processing (10+ years ago), and since then I've expanded to many different languages and environments. In high school, I was the Programming Lead and Team Captain for FRC [Team 2539](https://github.com/FRC2539). 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/weaver-goldman) 
 

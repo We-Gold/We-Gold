@@ -10,4 +10,4 @@ If you are here looking for a portfolio, note that I have all of my public code 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/weaver-goldman) 
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=We-Gold&theme=graywhite&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=We-Gold&theme=graywhite&no-frame=true&no-bg=true&margin-w=4)
